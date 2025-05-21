@@ -2,11 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=F72252&width=458&lines=Ol%C3%A1%2C+tudo+bem%3F;Me+chamo+Raul+Pierami;Sou+aluno+de+ADS+pela+Facens;Seja+Bem-Vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
-Me chamo Raul Gonçalves Pierami, tenho 18 anos e sou natural de Sorocaba-SP. 
-Concluí o ensino médio no Colégio Objetivo - Zona Norte. 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Facens. 
-Desde cedo sempre tive um certo interesse por tecnologia, algo que foi deixado de lado por um certo período da minha vida, porém teve sua chama reacesa quando descobri o mundo da programação e suas infinitas possibilidades. 
-Possuo um canal no YouTube, onde compartilho meu cotidiano, trajetória pessoal, educacional e profissional.
+Fala aí! 👋
+Sou o Raul Gonçalves Pierami, tenho 18 anos e sou de Sorocaba-SP. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Facens. Sempre curti tecnologia, mas foi quando conheci a programação que tudo fez sentido — desde então, não parei mais!
+
+Tenho um canal no YouTube onde compartilho um pouco do meu dia a dia, estudos e evolução na área de TI. 🚀
 
    [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@raulpierami)
    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raulpierami_/)
